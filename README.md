@@ -1,6 +1,6 @@
 ### Hey 👋
 
-Hey, I'm Ethan. I'm currently in my first year of college studying Computer Science.<br>
+Hey, I'm Ethan. I'm currently in my second year of college studying Computer Science.<br>
 I'm most comfortable with Java, and I do a lot of Minecraft-related stuff.
 
 #### Languages I'm Currently Interested In:
