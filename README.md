@@ -1,6 +1,6 @@
 ### Hey 👋
 
-Hey, I'm Ethan. I'm currently in my second year of college studying Computer Science.<br>
+Hey, I'm Ethan. I'm currently in my third year of college studying Computer Science.<br>
 I'm most comfortable with Java, and I do a lot of Minecraft-related stuff.
 
 #### Languages I'm Currently Interested In:
@@ -11,7 +11,7 @@ I'm most comfortable with Java, and I do a lot of Minecraft-related stuff.
 <br>
 ![Go](https://img.shields.io/badge/-Go-485063?logo=go&style=for-the-badge&logoColor=white&labelColor=0047AB)
 ![Haskell](https://img.shields.io/badge/-Haskell-485063?logo=haskell&style=for-the-badge&logoColor=white&labelColor=0047AB)
-![Scala](https://img.shields.io/badge/-Scala-485063?logo=Scala&style=for-the-badge&logoColor=white&labelColor=0047AB)
+![Clojure](https://img.shields.io/badge/-Clojure-485063?logo=Clojure&style=for-the-badge&logoColor=white&labelColor=0047AB)
 ![Typescript](https://img.shields.io/badge/-TypeScript-485063?logo=typescript&style=for-the-badge&logoColor=white&labelColor=0047AB)
 <br>
 
