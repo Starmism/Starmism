@@ -1,6 +1,6 @@
 ### Hey 👋
 
-Hey, I'm Ethan. I'm currently in my fourth year of college studying Computer Science.<br>
+Hey, I'm Ethan. I just recently graduated college with a B.S. in Computer Science. Open to work!<br>
 I'm most comfortable with Java, and I do a lot of Minecraft-related stuff.
 
 #### Languages I'm proficient in:
