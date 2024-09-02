@@ -4,7 +4,7 @@ Hey, I'm Ethan. I just recently graduated college with a B.S. in Computer Scienc
 I'm most comfortable with Java and Kotlin, and I do a lot of Minecraft-related stuff.
 
 #### Technologies I'm proficient in:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
